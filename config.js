@@ -1,9 +1,3 @@
-// const DB_USER = "postgres";
-// const DB_PASSWORD = "w3d06bsY66k1Q5PO4sSu";
-// const DB_HOST = "containers-us-west-90.railway.app";
-// const DB_NAME = "railway";
-// const API_KEY = "2c71615c7ac74394b941b0cc54585c54";
-// const DB_PORT = 7679;
 const DB_USER = process.env.DB_USER || "postgres";
 const DB_PASSWORD = process.env.DB_PASSWORD || "xddd2333Q";
 const DB_HOST = process.env.DB_HOST || "localhost";
